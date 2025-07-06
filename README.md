@@ -1,1 +1,2 @@
-# course-postgres-otus
+# Домашние задачния курса OTUS "PostgreSQL для Альфа-Банк"
+# 15 мая — 29 июля
